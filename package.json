@@ -1,0 +1,18 @@
+{
+  "name": "crm-client-api",
+  "version": "1.0.0",
+  "description": "API for falcom CRM app",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Vaibhav18Matere",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
